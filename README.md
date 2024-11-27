@@ -5,8 +5,7 @@
 - 🌱 I’m currently enhancing my skills in **microservices architecture**, **cloud technologies**, and **AI integrations**.
 - 💞️ I’m looking to collaborate on exciting open-source projects, especially in **JavaScript frameworks**, **Node.js**, and **backend optimizations**.
 - 📫 Reach me at: 
-  - **Email**: [jaydip.vananani@gmail.com](mailto:jaydip.vananani@gmail.com) 
-  - **LinkedIn**: [linkedin.com/in/jaydip54](https://www.linkedin.com/in/jaydip54/)
+  - **Email**: [vananijaydip54@gmail.com](mailto:vananijaydip54@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I believe code is poetry, and every great developer leaves behind a legacy of beautifully structured and functional art.
 
