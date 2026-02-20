@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jaydip54, also known as Jay Vanani.
-- 💻 I’m a Full Stack Developer currently working at **DigitalKS Techno LLP**.
 - 🌟 My expertise includes building scalable web applications, RESTful APIs, and full-stack solutions using cutting-edge technologies.
 - 🚀 I’m interested in learning and working with innovative tools, frameworks, and architectures to solve complex problems.
 - 🌱 I’m currently enhancing my skills in **microservices architecture**, **cloud technologies**, and **AI integrations**.
